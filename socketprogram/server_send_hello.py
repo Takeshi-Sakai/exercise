@@ -1,5 +1,5 @@
 #! /usr/bin/env python
-#server.py
+#server_send_hello.py
 import socket
 
 class HelloServer:
